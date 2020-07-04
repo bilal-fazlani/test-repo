@@ -7,3 +7,4 @@ some features
 - b
 - c
 - d
+- e
