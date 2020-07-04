@@ -6,3 +6,4 @@ some features
 - a
 - b
 - c
+- d
